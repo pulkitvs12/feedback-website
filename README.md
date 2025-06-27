@@ -24,6 +24,15 @@ It’s a lightweight, serverless solution ideal for portfolios, personal website
 
 ---
 
+## 🧠 Technologies & Cloud Services Used
+
+| Service                          | Purpose                                       |
+|----------------------------------|-----------------------------------------------|
+| **Firebase Realtime Database**   | Stores feedback entries in real time          |
+| **Firebase Console**             | Cloud management interface for Firebase       |
+| **Google Cloud Storage (GCS)**   | Hosts the static website (HTML, CSS, JS)      |
+
+
 ## 🧩 Architecture Flow
 
 1. User visits the feedback website hosted on Cloud Storage  
